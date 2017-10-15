@@ -8,7 +8,9 @@ It has two main objectives:
 - O1: Design a methodology to assess the performance of Energy Demand Forecasting models currently running in buildings.
 - O2: Study alternatives to improve the performance of the models.
 
-The final report can be found at: DOCUMENT STILL TO BE UPLOADED TO UPC REPOSITORY.
+The final report can be found at:
+- DOCUMENT STILL TO BE UPLOADED TO UPC REPOSITORY.
+- This GitHUB repository under the name: "Master_Thesis_Alvaro_Picatoste"
 
 The structure of the R programm is explained as follows:
 
