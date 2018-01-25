@@ -13,9 +13,4 @@ The final report can be found at:
 - https://goo.gl/Xk8rE4
 - This GitHUB repository under the name: "Master_Thesis_Alvaro_Picatoste"
 
-The structure of the R programm is explained as follows:
-
-- Script MAIN.R.
-  
-  This script is meant for PART I, related to O1. 
- 
+The structure of the R programm is detailed in the file named "Programstructure"
