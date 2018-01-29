@@ -13,4 +13,25 @@ The final report can be found at:
 - https://goo.gl/Xk8rE4
 - This GitHUB repository under the name: "Master_Thesis_Alvaro_Picatoste"
 
-The structure of the R programm is detailed in the file named "Programstructure"
+The structure of the R programm is detailed below:
+
+-> Main.R
+
+  This file is meant for fullfilling objective O1. For more details download PDF file. 
+  
+-> totalconsumption.R
+
+  This file tackles Objective O2. It pre-processes the data before applying any algorithm.
+  
+  -> workingcalendar.R : Specific building calendar to differentiate between day categories.
+  -> weathertotal : Local Temperatures measured by on-site meter.
+  
+ -> ann.R ; rf. R; knn.R
+ 
+ Scripts for creating the ML models to predict the energy consumption. Normalization and Dummy variables are considered in each of these    scripts.
+
+-> gatherresults.R; thesisfunctions.R
+
+ Scripts to define the variables and the way to present the results.
+ 
+For more information please read the PDF file with the extended report.
